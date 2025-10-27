@@ -89,7 +89,7 @@ Follow these steps to view and interact with the dashboard on your local machine
 
 ## 🖼️ Preview
 
-[Embed `dashboard_preview.png` here using markdown, e.g., `![Dashboard Preview](dashboard_preview.png)`]
+![Preview of the Healthcare Analytics Project](dashboard_preview.png)
 
 ---
 
